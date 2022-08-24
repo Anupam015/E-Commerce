@@ -13,9 +13,10 @@ Note: Bot is deployed on contact page
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/73845017/154814979-4649676c-4d7d-4bb8-a4aa-4d5019fca8c0.png">
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/73845017/154814993-33348f2f-b530-42d0-83aa-c52f7d4a0594.png">
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/73845017/168463917-70e9cc51-3575-4dcf-8e4c-7a0b90ce9683.png">
-![image](https://user-images.githubusercontent.com/73845017/186347485-0aac80ce-4047-41d4-99d1-f2fdcb0d5a17.png)
-![image](https://user-images.githubusercontent.com/73845017/186347766-eed06f35-b367-42ba-bb38-749a3478e260.png)
-![image](https://user-images.githubusercontent.com/73845017/186348141-7694aa8c-e818-45c4-b0bf-6d33c0981ec9.png)
+<img width="947" alt="image"  src="https://user-images.githubusercontent.com/73845017/186347485-0aac80ce-4047-41d4-99d1-f2fdcb0d5a17.png">
+<img width="947" alt="image"  src="https://user-images.githubusercontent.com/73845017/186347766-eed06f35-b367-42ba-bb38-749a3478e260.png">
+<img width="947" alt="image"  src="https://user-images.githubusercontent.com/73845017/186348141-7694aa8c-e818-45c4-b0bf-6d33c0981ec9.png">
+
 
 
 
